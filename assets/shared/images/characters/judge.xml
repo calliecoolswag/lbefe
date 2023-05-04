@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="judge.png">
+<SubTexture name="idle0000" x="0" y="2311" width="805" height="467" frameX="-1067" frameY="-442" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="idle0001" x="1331" y="527" width="804" height="478" frameX="-1069" frameY="-441" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="left0000" x="0" y="0" width="1331" height="675" frameX="-541" frameY="-254" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="left0001" x="0" y="675" width="1328" height="643" frameX="-545" frameY="-258" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="right0000" x="0" y="1318" width="1004" height="518" frameX="-1068" frameY="-375" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="right0001" x="1331" y="0" width="1002" height="527" frameX="-1066" frameY="-377" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="guilty0000" x="1004" y="1318" width="804" height="475" frameX="-1069" frameY="-427" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="guilty0001" x="804" y="1836" width="799" height="474" frameX="-1073" frameY="-429" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="guilty0002" x="0" y="1836" width="804" height="475" frameX="-1069" frameY="-427" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="guilty0003" x="2333" y="0" width="799" height="474" frameX="-1073" frameY="-429" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>

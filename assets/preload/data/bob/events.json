@@ -1,0 +1,76 @@
+{
+	"song": {
+		"events": [
+			[
+				18450,
+				[
+					[
+						"Play Animation",
+						"giggle",
+						"dad  "
+					]
+				]
+			],
+			[
+				28425,
+				[
+					[
+						"Play Animation",
+						"car",
+						"dad"
+					]
+				]
+			],
+			[
+				28500,
+				[
+					[
+						"Screen Shake",
+						"0.2, 0.02",
+						"0.2, 0.02"
+					]
+				]
+			],
+			[
+				45600,
+				[
+					[
+						"Play Animation",
+						"wavw",
+						"dad"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Change Character",
+						"gf",
+						"santa"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf"
+					]
+				]
+			],
+			[
+				85800,
+				[
+					[
+						"Play Animation",
+						"melt",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lbefetrouble.png">
+<SubTexture name="idle0000" x="1540" y="0" width="581" height="428" frameX="-299" frameY="-176" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0001" x="2121" y="1215" width="572" height="381" frameX="-308" frameY="-223" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0002" x="1540" y="428" width="581" height="424" frameX="-299" frameY="-180" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0003" x="1540" y="0" width="581" height="428" frameX="-299" frameY="-176" frameWidth="1280" frameHeight="720" />
+<SubTexture name="down0000" x="1991" y="1795" width="552" height="361" frameX="-328" frameY="-243" frameWidth="1280" frameHeight="720" />
+<SubTexture name="down0001" x="1439" y="1795" width="552" height="367" frameX="-328" frameY="-237" frameWidth="1280" frameHeight="720" />
+<SubTexture name="left0000" x="0" y="2197" width="696" height="303" frameX="-184" frameY="-323" frameWidth="1280" frameHeight="720" />
+<SubTexture name="left0001" x="696" y="2197" width="690" height="295" frameX="-190" frameY="-325" frameWidth="1280" frameHeight="720" />
+<SubTexture name="right0000" x="486" y="487" width="479" height="440" frameX="-420" frameY="-164" frameWidth="1280" frameHeight="720" />
+<SubTexture name="right0001" x="0" y="487" width="486" height="444" frameX="-409" frameY="-160" frameWidth="1280" frameHeight="720" />
+<SubTexture name="up0000" x="0" y="0" width="553" height="487" frameX="-327" frameY="-117" frameWidth="1280" frameHeight="720" />
+<SubTexture name="up0001" x="553" y="0" width="553" height="475" frameX="-327" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="throw0000" x="1540" y="0" width="581" height="428" frameX="-69" frameY="-201" frameWidth="1280" frameHeight="720" />
+<SubTexture name="throw0001" x="2121" y="417" width="576" height="408" frameX="-74" frameY="-221" frameWidth="1280" frameHeight="720" />
+<SubTexture name="throw0002" x="1540" y="852" width="534" height="373" frameX="-116" frameY="-257" frameWidth="1280" frameHeight="720" />
+<SubTexture name="throw0003" x="2121" y="825" width="530" height="390" frameX="-164" frameY="-230" frameWidth="1280" frameHeight="720" />
+<SubTexture name="throw0004" x="2121" y="0" width="640" height="417" frameX="-142" frameY="-202" frameWidth="1280" frameHeight="720" />
+<SubTexture name="throw0005" x="661" y="1368" width="656" height="426" frameX="-119" frameY="-190" frameWidth="1280" frameHeight="720" />
+<SubTexture name="throw0006" x="0" y="1368" width="661" height="427" frameX="-108" frameY="-192" frameWidth="1280" frameHeight="720" />
+<SubTexture name="throw0007" x="1317" y="1368" width="656" height="423" frameX="-109" frameY="-197" frameWidth="1280" frameHeight="720" />
+<SubTexture name="throw0008" x="793" y="1795" width="646" height="399" frameX="-161" frameY="-218" frameWidth="1280" frameHeight="720" />
+<SubTexture name="throw0009" x="0" y="1795" width="793" height="402" frameX="-212" frameY="-239" frameWidth="1280" frameHeight="720" />
+<SubTexture name="throw0010" x="0" y="931" width="1086" height="437" frameX="-194" frameY="-278" frameWidth="1280" frameHeight="720" />
+<SubTexture name="throw0011" x="1106" y="0" width="434" height="439" frameX="-190" frameY="-270" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

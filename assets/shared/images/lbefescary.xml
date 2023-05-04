@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lbefescary.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jumpscare0000" x="0" y="0" width="405" height="271" frameX="0" frameY="-23" frameWidth="419" frameHeight="294"/>
+	<SubTexture name="jumpscare0001" x="405" y="0" width="361" height="271" frameX="-44" frameY="-23" frameWidth="419" frameHeight="294"/>
+	<SubTexture name="jumpscare0002" x="766" y="0" width="361" height="271" frameX="-44" frameY="-23" frameWidth="419" frameHeight="294"/>
+	<SubTexture name="jumpscare0003" x="766" y="0" width="361" height="271" frameX="-44" frameY="-23" frameWidth="419" frameHeight="294"/>
+	<SubTexture name="jumpscare0004" x="1127" y="0" width="361" height="271" frameX="-44" frameY="-23" frameWidth="419" frameHeight="294"/>
+	<SubTexture name="jumpscare0005" x="1488" y="0" width="361" height="271" frameX="-44" frameY="-23" frameWidth="419" frameHeight="294"/>
+	<SubTexture name="jumpscare0006" x="0" y="271" width="361" height="271" frameX="-44" frameY="-23" frameWidth="419" frameHeight="294"/>
+	<SubTexture name="jumpscare0007" x="361" y="271" width="361" height="271" frameX="-44" frameY="-23" frameWidth="419" frameHeight="294"/>
+	<SubTexture name="jumpscare0008" x="722" y="271" width="361" height="271" frameX="-44" frameY="-23" frameWidth="419" frameHeight="294"/>
+	<SubTexture name="jumpscare0009" x="1083" y="271" width="361" height="271" frameX="-44" frameY="-23" frameWidth="419" frameHeight="294"/>
+	<SubTexture name="jumpscare0010" x="1444" y="271" width="361" height="271" frameX="-44" frameY="-23" frameWidth="419" frameHeight="294"/>
+	<SubTexture name="jumpscare0011" x="0" y="542" width="361" height="271" frameX="-44" frameY="-23" frameWidth="419" frameHeight="294"/>
+	<SubTexture name="jumpscare0012" x="361" y="542" width="361" height="271" frameX="-44" frameY="-23" frameWidth="419" frameHeight="294"/>
+	<SubTexture name="jumpscare0013" x="361" y="542" width="361" height="271" frameX="-44" frameY="-23" frameWidth="419" frameHeight="294"/>
+	<SubTexture name="jumpscare0014" x="722" y="542" width="400" height="271" frameX="-19" frameY="-23" frameWidth="419" frameHeight="294"/>
+	<SubTexture name="jumpscare0015" x="722" y="542" width="400" height="271" frameX="-19" frameY="-23" frameWidth="419" frameHeight="294"/>
+	<SubTexture name="jumpscare0016" x="1122" y="542" width="405" height="294" frameX="-14" frameY="0" frameWidth="419" frameHeight="294"/>
+</TextureAtlas>

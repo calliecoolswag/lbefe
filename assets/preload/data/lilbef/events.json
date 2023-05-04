@@ -1,0 +1,596 @@
+{
+	"song": {
+		"events": [
+			[
+				20327.868852459,
+				[
+					[
+						"Change Default Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				20983.6065573771,
+				[
+					[
+						"Change Default Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				41967.2131147541,
+				[
+					[
+						"Change Default Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				47213.1147540983,
+				[
+					[
+						"Change Default Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				52459.0163934426,
+				[
+					[
+						"Change Default Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				62950.8196721311,
+				[
+					[
+						"Change Default Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				83934.4262295083,
+				[
+					[
+						"Change Default Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				115409.836065574,
+				[
+					[
+						"Change Default Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				124590.163934426,
+				[
+					[
+						"Change Default Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				124918.032786885,
+				[
+					[
+						"Change Default Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				125245.901639345,
+				[
+					[
+						"Change Default Zoom",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				125573.770491804,
+				[
+					[
+						"Change Default Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				125901.639344263,
+				[
+					[
+						"Change Default Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				133770.491803279,
+				[
+					[
+						"Change Default Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				141639.344262295,
+				[
+					[
+						"Change Default Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				146885.24590164,
+				[
+					[
+						"Change Default Zoom",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"sleepy"
+					]
+				]
+			],
+			[
+				152786.885245902,
+				[
+					[
+						"Camera Follow Pos",
+						"350",
+						"700"
+					],
+					[
+						"Change Default Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				154098.360655738,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				163934.426229509,
+				[
+					[
+						"Change Default Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				165081.967213115,
+				[
+					[
+						"Camera Follow Pos",
+						"350",
+						"700"
+					],
+					[
+						"Change Default Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				187540.983606558,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				188852.459016394,
+				[
+					[
+						"Change Character",
+						"dad",
+						"lilbef"
+					],
+					[
+						"Change Default Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				194098.360655738,
+				[
+					[
+						"Add Camera Zoom",
+						"5",
+						"5"
+					],
+					[
+						"Camera Follow Pos",
+						"100",
+						"600"
+					],
+					[
+						"Change Default Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				204590.163934427,
+				[
+					[
+						"Change Default Zoom",
+						"",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				215081.967213115,
+				[
+					[
+						"Change Character",
+						"dad",
+						"lilbefcourt"
+					]
+				]
+			],
+			[
+				241311.475409837,
+				[
+					[
+						"Play Animation",
+						"left",
+						"gf"
+					]
+				]
+			],
+			[
+				246557.377049181,
+				[
+					[
+						"Play Animation",
+						"right",
+						"gf"
+					]
+				]
+			],
+			[
+				251803.278688525,
+				[
+					[
+						"Play Animation",
+						"left",
+						"gf"
+					]
+				]
+			],
+			[
+				257049.18032787,
+				[
+					[
+						"Play Animation",
+						"right",
+						"gf"
+					]
+				]
+			],
+			[
+				262295.081967214,
+				[
+					[
+						"Camera Follow Pos",
+						"50",
+						"600 "
+					],
+					[
+						"Change Default Zoom",
+						"0.3",
+						""
+					],
+					[
+						"Play Animation",
+						"left",
+						"gf"
+					]
+				]
+			],
+			[
+				264918.032786886,
+				[
+					[
+						"Change Default Zoom",
+						"",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				267540.983606558,
+				[
+					[
+						"Play Animation",
+						"right",
+						"gf"
+					]
+				]
+			],
+			[
+				270163.93442623,
+				[
+					[
+						"Play Animation",
+						"left",
+						"gf"
+					]
+				]
+			],
+			[
+				271475.409836066,
+				[
+					[
+						"Play Animation",
+						"right",
+						"gf"
+					]
+				]
+			],
+			[
+				272786.885245902,
+				[
+					[
+						"Play Animation",
+						"left",
+						"gf"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				278032.786885247,
+				[
+					[
+						"Play Animation",
+						"right",
+						"gf"
+					]
+				]
+			],
+			[
+				283278.688524591,
+				[
+					[
+						"Play Animation",
+						"left",
+						"gf"
+					]
+				]
+			],
+			[
+				285901.639344263,
+				[
+					[
+						"Play Animation",
+						"right",
+						"gf"
+					]
+				]
+			],
+			[
+				288524.590163935,
+				[
+					[
+						"Play Animation",
+						"left",
+						"gf"
+					]
+				]
+			],
+			[
+				291147.540983607,
+				[
+					[
+						"Play Animation",
+						"right",
+						"gf"
+					]
+				]
+			],
+			[
+				293770.491803279,
+				[
+					[
+						"Play Animation",
+						"left",
+						"gf"
+					]
+				]
+			],
+			[
+				299016.393442623,
+				[
+					[
+						"Play Animation",
+						"right",
+						"gf"
+					]
+				]
+			],
+			[
+				304262.295081967,
+				[
+					[
+						"Play Animation",
+						"left",
+						"gf"
+					]
+				]
+			],
+			[
+				309508.196721312,
+				[
+					[
+						"Play Animation",
+						"right",
+						"gf"
+					]
+				]
+			],
+			[
+				314754.098360656,
+				[
+					[
+						"Play Animation",
+						"left",
+						"gf"
+					]
+				]
+			],
+			[
+				320000,
+				[
+					[
+						"Play Animation",
+						"right",
+						"gf"
+					]
+				]
+			],
+			[
+				325245.901639344,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"gf"
+					]
+				]
+			],
+			[
+				335737.704918032,
+				[
+					[
+						"Play Animation",
+						"guilty",
+						"gf"
+					],
+					[
+						"Change Default Zoom",
+						"0.2",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"675",
+						"550"
+					]
+				]
+			],
+			[
+				340983.606557377,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Change Default Zoom",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"lilbefjail"
+					]
+				]
+			],
+			[
+				372459.016393442,
+				[
+					[
+						"Change Default Zoom",
+						"0.2",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"sleepy"
+					]
+				]
+			],
+			[
+				381639.344262294,
+				[
+					[
+						"Change Default Zoom",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

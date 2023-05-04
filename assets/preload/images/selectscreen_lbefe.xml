@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="selectscreen_lbefe.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 30000" x="0" y="0" width="1452" height="927"/>
+	<SubTexture name="Symbol 30001" x="0" y="927" width="1452" height="926" frameX="0" frameY="0" frameWidth="1452" frameHeight="927"/>
+</TextureAtlas>

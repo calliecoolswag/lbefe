@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lilbef.png">
+<SubTexture name="danceright0000" x="727" y="741" width="327" height="307" frameX="-1047" frameY="-814" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="danceright0001" x="1033" y="343" width="352" height="338" frameX="-977" frameY="-789" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="danceright0002" x="686" y="0" width="347" height="357" frameX="-962" frameY="-779" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="danceleft0000" x="1054" y="741" width="310" height="301" frameX="-881" frameY="-841" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="danceleft0001" x="380" y="741" width="347" height="326" frameX="-952" frameY="-810" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="danceleft0002" x="686" y="0" width="347" height="357" frameX="-962" frameY="-779" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="left0000" x="1033" y="0" width="375" height="343" frameX="-856" frameY="-788" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="left0001" x="0" y="741" width="380" height="343" frameX="-863" frameY="-788" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="up0000" x="0" y="0" width="346" height="390" frameX="-959" frameY="-739" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="up0001" x="346" y="0" width="340" height="381" frameX="-965" frameY="-750" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="down0000" x="350" y="1084" width="357" height="279" frameX="-954" frameY="-869" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="down0001" x="0" y="1084" width="350" height="293" frameX="-959" frameY="-854" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="right0000" x="364" y="390" width="364" height="346" frameX="-1061" frameY="-786" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="right0001" x="0" y="390" width="364" height="351" frameX="-1050" frameY="-781" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>

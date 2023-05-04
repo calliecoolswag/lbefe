@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="peanutlbefe.png">
+<SubTexture name="idle0000" x="0" y="3115" width="783" height="611" frameX="-868" frameY="-628" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="idle0001" x="882" y="1664" width="1661" height="735" frameX="-892" frameY="-506" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="idle0002" x="2188" y="746" width="751" height="742" frameX="-889" frameY="-496" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="idle0003" x="2188" y="746" width="751" height="742" frameX="-889" frameY="-496" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="left0000" x="899" y="2401" width="934" height="706" frameX="-488" frameY="-528" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="left0001" x="0" y="2401" width="899" height="714" frameX="-534" frameY="-518" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="up0000" x="0" y="0" width="720" height="902" frameX="-820" frameY="-331" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="up0001" x="720" y="0" width="711" height="875" frameX="-827" frameY="-360" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="down0000" x="3853" y="603" width="785" height="581" frameX="-856" frameY="-656" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="down0001" x="783" y="3115" width="762" height="611" frameX="-858" frameY="-625" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="right0000" x="0" y="902" width="940" height="762" frameX="-904" frameY="-469" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="right0001" x="940" y="902" width="925" height="758" frameX="-900" frameY="-473" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="throwing0000" x="2188" y="746" width="751" height="742" frameX="-889" frameY="-496" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="throwing0001" x="1431" y="0" width="757" height="770" frameX="-857" frameY="-463" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="throwing0002" x="2188" y="0" width="908" height="746" frameX="-518" frameY="-488" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="throwing0003" x="0" y="1664" width="882" height="737" frameX="-537" frameY="-493" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="throwing0004" x="1833" y="2401" width="1384" height="679" frameX="-740" frameY="-547" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="throwing0005" x="3853" y="0" width="1609" height="603" frameX="-934" frameY="-626" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="throwing0006" x="1545" y="3115" width="861" height="606" frameX="-900" frameY="-624" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="throwing0007" x="3096" y="0" width="757" height="726" frameX="-898" frameY="-506" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="throwing0008" x="2188" y="746" width="751" height="742" frameX="-889" frameY="-496" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="throwing0009" x="2188" y="746" width="751" height="742" frameX="-889" frameY="-496" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>

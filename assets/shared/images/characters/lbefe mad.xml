@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lbefe mad.png">
+<SubTexture name="idle0000" x="0" y="2062" width="519" height="386" frameX="-312" frameY="-177" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0001" x="2694" y="1072" width="541" height="343" frameX="-303" frameY="-221" frameWidth="1280" frameHeight="720" />
+<SubTexture name="idle0002" x="1029" y="2062" width="519" height="380" frameX="-315" frameY="-184" frameWidth="1280" frameHeight="720" />
+<SubTexture name="down0000" x="1280" y="951" width="420" height="226" frameX="-348" frameY="-330" frameWidth="1280" frameHeight="720" />
+<SubTexture name="down0001" x="2694" y="2062" width="423" height="234" frameX="-347" frameY="-323" frameWidth="1280" frameHeight="720" />
+<SubTexture name="up0000" x="1917" y="1269" width="447" height="391" frameX="-335" frameY="-114" frameWidth="1280" frameHeight="720" />
+<SubTexture name="up0001" x="2694" y="1739" width="463" height="323" frameX="-330" frameY="-58" frameWidth="1280" frameHeight="720" />
+<SubTexture name="up0002" x="2694" y="1415" width="467" height="324" frameX="-331" frameY="-68" frameWidth="1280" frameHeight="720" />
+<SubTexture name="up0003" x="1917" y="1269" width="447" height="391" frameX="-335" frameY="-114" frameWidth="1280" frameHeight="720" />
+<SubTexture name="left0000" x="1548" y="2062" width="652" height="374" frameX="-135" frameY="-191" frameWidth="1280" frameHeight="720" />
+<SubTexture name="left0001" x="2694" y="0" width="647" height="374" frameX="-145" frameY="-189" frameWidth="1280" frameHeight="720" />
+<SubTexture name="right0000" x="1252" y="1196" width="475" height="402" frameX="-424" frameY="-165" frameWidth="1280" frameHeight="720" />
+<SubTexture name="right0001" x="1917" y="864" width="480" height="405" frameX="-415" frameY="-160" frameWidth="1280" frameHeight="720" />
+<SubTexture name="grr0000" x="0" y="2062" width="519" height="386" frameX="-312" frameY="-177" frameWidth="1280" frameHeight="720" />
+<SubTexture name="grr0001" x="2694" y="728" width="539" height="344" frameX="-307" frameY="-220" frameWidth="1280" frameHeight="720" />
+<SubTexture name="grr0002" x="1280" y="476" width="637" height="475" frameX="-261" frameY="-90" frameWidth="1280" frameHeight="720" />
+<SubTexture name="grr0003" x="0" y="1196" width="626" height="467" frameX="-266" frameY="-99" frameWidth="1280" frameHeight="720" />
+<SubTexture name="grr0004" x="0" y="720" width="637" height="476" frameX="-261" frameY="-90" frameWidth="1280" frameHeight="720" />
+<SubTexture name="grr0005" x="626" y="1196" width="626" height="467" frameX="-266" frameY="-99" frameWidth="1280" frameHeight="720" />
+<SubTexture name="grr0006" x="637" y="720" width="637" height="476" frameX="-261" frameY="-90" frameWidth="1280" frameHeight="720" />
+<SubTexture name="grr0007" x="0" y="1196" width="626" height="467" frameX="-266" frameY="-99" frameWidth="1280" frameHeight="720" />
+<SubTexture name="grr0008" x="1280" y="0" width="637" height="476" frameX="-261" frameY="-90" frameWidth="1280" frameHeight="720" />
+<SubTexture name="explode0000" x="2026" y="1663" width="509" height="387" frameX="-316" frameY="-179" frameWidth="1280" frameHeight="720" />
+<SubTexture name="explode0001" x="519" y="2062" width="510" height="382" frameX="-316" frameY="-182" frameWidth="1280" frameHeight="720" />
+<SubTexture name="explode0002" x="1521" y="1663" width="505" height="395" frameX="-322" frameY="-168" frameWidth="1280" frameHeight="720" />
+<SubTexture name="explode0003" x="0" y="1663" width="507" height="399" frameX="-316" frameY="-164" frameWidth="1280" frameHeight="720" />
+<SubTexture name="explode0004" x="507" y="1663" width="507" height="399" frameX="-316" frameY="-164" frameWidth="1280" frameHeight="720" />
+<SubTexture name="explode0005" x="1014" y="1663" width="507" height="399" frameX="-316" frameY="-164" frameWidth="1280" frameHeight="720" />
+<SubTexture name="explode0006" x="1917" y="446" width="597" height="418" frameX="-235" frameY="-174" frameWidth="1280" frameHeight="720" />
+<SubTexture name="explode0007" x="1917" y="0" width="777" height="446" frameX="-154" frameY="-184" frameWidth="1280" frameHeight="720" />
+<SubTexture name="explode0008" x="2694" y="374" width="495" height="354" frameX="-103" frameY="-203" frameWidth="1280" frameHeight="720" />
+<SubTexture name="explode0009" x="0" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="explode0010" x="0" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

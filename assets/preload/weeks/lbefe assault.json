@@ -1,0 +1,49 @@
+{
+	"storyName": "Your New Week",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"redguy72",
+			"red",
+			[
+				195,
+				13,
+				73
+			]
+		],
+		[
+			"pob",
+			"pblbefe",
+			[
+				100,
+				0,
+				155
+			]
+		],
+		[
+			"assault",
+			"peanut",
+			[
+				175,
+				80,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

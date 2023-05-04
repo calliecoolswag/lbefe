@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="redguydialouge.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="redguy0000" x="0" y="0" width="208" height="305" frameX="0" frameY="0" frameWidth="209" frameHeight="305"/>
+	<SubTexture name="redguy0001" x="208" y="0" width="209" height="305"/>
+</TextureAtlas>

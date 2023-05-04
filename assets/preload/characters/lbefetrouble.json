@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": true,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-229,
+				25
+			],
+			"anim": "throwanim",
+			"fps": 12,
+			"name": "throw",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lbefetrouble",
+	"position": [
+		-500,
+		180
+	],
+	"healthicon": "pblbefe",
+	"flip_x": false,
+	"healthbar_colors": [
+		163,
+		118,
+		217
+	],
+	"camera_position": [
+		-70,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

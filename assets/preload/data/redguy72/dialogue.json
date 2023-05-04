@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "redguydialouge",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "Hello. I am redguy."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i anm bf from helli came from hell just now"
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "redguydialouge",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What is wrong with you. You seem to look like a young adult male in his twenties."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "my gir lfrined  would have said somethin hear shes dead tho"
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "redguydialouge",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I hate women."
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "redguydialouge",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I can sing, it would seem to only make sense you sing with me aswell."
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "redguydialouge",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then the mod Literally Bob Every FNF Ever will be noticed by others."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i have no idea where i am at all"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"idle_anim": "idle",
+	"image": "lbefestory",
+	"position": [
+		550,
+		180
+	],
+	"flipX": false,
+	"scale": 0.45,
+	"confirm_anim": "M Dad Idle"
+}

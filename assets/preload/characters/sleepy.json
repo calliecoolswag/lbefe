@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "shoot",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "shout"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lilbefsleep",
+	"position": [
+		-850,
+		-150
+	],
+	"healthicon": "lilbef",
+	"flip_x": false,
+	"healthbar_colors": [
+		93,
+		37,
+		143
+	],
+	"camera_position": [
+		570,
+		470
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

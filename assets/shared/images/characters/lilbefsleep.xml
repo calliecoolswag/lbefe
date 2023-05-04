@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lilbefsleep.png">
+<SubTexture name="idle0000" x="1506" y="1709" width="753" height="458" frameX="-766" frameY="-743" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="idle0001" x="753" y="1709" width="753" height="460" frameX="-766" frameY="-743" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="shout0000" x="0" y="0" width="1037" height="897" frameX="-482" frameY="-304" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="shout0001" x="0" y="897" width="1051" height="812" frameX="-464" frameY="-391" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="shoot0000" x="1051" y="897" width="1311" height="775" frameX="-766" frameY="-426" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="shoot0001" x="1037" y="0" width="1794" height="885" frameX="-766" frameY="-316" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="shoot0002" x="0" y="1709" width="753" height="547" frameX="-766" frameY="-654" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>

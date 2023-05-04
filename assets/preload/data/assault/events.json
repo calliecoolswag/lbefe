@@ -1,0 +1,76 @@
+{
+	"song": {
+		"events": [
+			[
+				18800,
+				[
+					[
+						"Play Animation",
+						"throwingANIM",
+						"Dad"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Change Default Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				44400,
+				[
+					[
+						"Play Animation",
+						"throwingANIM",
+						"Dad"
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"Change Default Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57200,
+				[
+					[
+						"Play Animation",
+						"throwingANIM",
+						"Dad"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Change Default Zoom",
+						"0.2",
+						""
+					]
+				]
+			],
+			[
+				59200,
+				[
+					[
+						"Change Default Zoom",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

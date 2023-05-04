@@ -1,0 +1,50 @@
+{
+	"storyName": "gloopy",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "tank",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"lbefestory",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"bob",
+			"lbefe",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"nob",
+			"lbefemad",
+			[
+				126,
+				33,
+				173
+			]
+		],
+		[
+			"Arachibutyrophobia",
+			"run",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Bob Week",
+	"hiddenUntilUnlocked": false
+}

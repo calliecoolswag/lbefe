@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lilbefjail.png">
+<SubTexture name="idle0000" x="1386" y="624" width="346" height="288" frameX="-225" frameY="-719" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="idle0001" x="1386" y="315" width="357" height="309" frameX="-195" frameY="-700" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="idle0002" x="1386" y="0" width="358" height="315" frameX="-192" frameY="-691" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="up00000" x="688" y="0" width="348" height="402" frameX="-190" frameY="-595" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="up00001" x="0" y="499" width="348" height="393" frameX="-195" frameY="-605" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="left00000" x="781" y="892" width="357" height="320" frameX="-136" frameY="-695" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="left00001" x="0" y="892" width="356" height="331" frameX="-141" frameY="-685" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="down00000" x="1386" y="912" width="351" height="273" frameX="-206" frameY="-750" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="down00001" x="1317" y="1223" width="345" height="253" frameX="-209" frameY="-760" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="right00000" x="702" y="499" width="306" height="325" frameX="-272" frameY="-675" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="right00001" x="1036" y="338" width="294" height="334" frameX="-266" frameY="-670" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="right-alt0000" x="871" y="1223" width="446" height="300" frameX="-286" frameY="-695" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="right-alt0001" x="415" y="1223" width="456" height="308" frameX="-279" frameY="-690" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="up-alt0000" x="344" y="0" width="344" height="491" frameX="-195" frameY="-490" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="up-alt0001" x="0" y="0" width="344" height="499" frameX="-193" frameY="-493" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="left-alt0000" x="0" y="1223" width="415" height="315" frameX="-54" frameY="-698" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="left-alt0001" x="356" y="892" width="425" height="325" frameX="-55" frameY="-693" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="down-alt0000" x="1036" y="0" width="350" height="338" frameX="-220" frameY="-788" frameWidth="2560" frameHeight="1440" />
+<SubTexture name="down-alt0001" x="348" y="499" width="354" height="347" frameX="-211" frameY="-777" frameWidth="2560" frameHeight="1440" />
+</TextureAtlas>

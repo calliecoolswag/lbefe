@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lbefe2dialouge",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "why ar e you covered in peanutbutter dickwad"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lbefe2dialouge",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "weird ass"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lbefe2dialouge",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		}
+	]
+}

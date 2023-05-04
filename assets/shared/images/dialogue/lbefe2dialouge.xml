@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lbefe2dialouge.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lbefedialouge0000" x="0" y="0" width="345" height="271"/>
+	<SubTexture name="lbefedialouge0001" x="0" y="0" width="345" height="271"/>
+	<SubTexture name="lbefedialouge0002" x="345" y="0" width="345" height="271"/>
+	<SubTexture name="lbefedialouge0003" x="345" y="0" width="345" height="271"/>
+</TextureAtlas>
